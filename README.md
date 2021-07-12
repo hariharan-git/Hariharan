@@ -1,2 +1,2 @@
-I am  hariharan.
-This is my car price prediction model
+
+This is car price prediction model with Linear regression.
